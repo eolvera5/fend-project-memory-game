@@ -23,5 +23,3 @@ Internet
 Browser
 FONTAWESOME
 BOOTSTRAP
-# fend-project-memory-game
-# fend-project-memory-game
